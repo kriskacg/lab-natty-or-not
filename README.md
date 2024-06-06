@@ -1,51 +1,28 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 📢Podcast: A Revolução das IAs Generativas no Ensino: Uma Discussão Acesa!🔥🧨
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Neste episódio explosivo💣, mergulhamos no universo das IAs generativas e seus impactos revolucionários na educação. Com a participação de especialistas em educação e tecnologia, pesquisadores em inteligência artificial aplicada ao ensino e um aluno, discutimos os benefícios e desafios dessa nova era.
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- Roteiro do Podcast elaborado com auxílio do [Google AI Studio](https://aistudio.google.com);
+- Sintetização das vozes elaborada com a IA [ElevenLabs](https://www.elevenlabs.io);
+- Edição e montagem do Podcast realizado com a IA [Descript](https://www.descript.com).
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+Utilizei o Google AI Studio para desenvolver o roteiro e aprimorar a narrativa do podcast. Na ElevenLabs testei e selecionei as vozes as sintéticas de cada participante do podcast. Já no "Descript", foi onde a mágica aconteceu para a edição final e personalização, garantindo um trabalho com  uma interação dinâmica e debate fluido.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+O Podcast apresenta um debate um pouco acalorado e esclarecedor sobre o impacto da IA generativa na educação. Gerou uma discussão rica e profunda sobre os benefícios e desafios da IA, incluindo questões éticas, acesso à tecnologia, e a importância da formação de professores e alunos para o uso responsável da ferramenta.
+
+🔊 [Ouça agora e prepare-se para uma discussão acesa sobre o futuro da educação!](/Podcast.mp3)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
+Este projeto me fez experimentar na prática a versatilidade e variedades de IAs Generativas disponíveis e o quanto pode auxiliar e facilitar atividades em diversos setores no mercado de trabalho.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
